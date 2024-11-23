@@ -46,3 +46,5 @@ The project demonstrates a dual-environment approach using both Python and Postg
 
 #### Step 4: Split salary column into min & max convert them to numeric.
 ![Screenshot 2024-11-23 150553](https://github.com/user-attachments/assets/7786a0c8-d1dc-4225-ac11-aa35b1d7fb78)
+#### Step 5: Replace -1 with 'Unknown' in Founded column
+![Screenshot 2024-11-23 202108](https://github.com/user-attachments/assets/8e79e3d2-5099-4c6f-9083-bd58cc6a3789)
