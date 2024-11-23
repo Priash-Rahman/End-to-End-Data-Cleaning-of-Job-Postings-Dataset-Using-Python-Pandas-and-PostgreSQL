@@ -27,13 +27,22 @@ The project demonstrates a dual-environment approach using both Python and Postg
 - Imported the raw data into PostgreSQL using DBeaver
 ## Cleaning steps : 
 
-#### Step 1 : Prepare the environment , delete unneseccary columns , make a clone of raw data to maintain data integrity
+#### Step 1 : Prepare the environment , delete unneseccary columns , make a clone of raw data to maintain data integrity(SQL)
  
 
- ![Prepare the envo](https://github.com/user-attachments/assets/2d701e05-0087-4d94-94db-1e60844e2eaa)
+![Prepare the envo](https://github.com/user-attachments/assets/4e4de2b8-813b-4ca4-bbd0-5e2094aab26f)
 
- ### Step 2: Segment job title column into 5 category & add the new column in table.
-![Setmented job title](https://github.com/user-attachments/assets/eb154595-da9d-427b-80fe-0874098146f1)
+
+ #### Step 2: Segment job title column into 5 category & add the new column in table.
+![Screenshot 2024-11-23 094933](https://github.com/user-attachments/assets/b45707f3-3090-4fd2-9488-c548999be826)
 #### Step 3: Split location column into 2 part City & State & add to the table
 
-![Splitted city and state](https://github.com/user-attachments/assets/9585c253-f6b9-4aa1-a456-60633ada86a8)
+
+![Screenshot 2024-11-23 095504](https://github.com/user-attachments/assets/71c9517f-c593-4e47-a5d2-c64fefb52a35)
+
+
+#### Step 3: Fix inconsistencies in "Size" column.
+![fixed size column](https://github.com/user-attachments/assets/dd7b16f6-75b7-4d57-848f-32f89b18280b)
+
+#### Step 4: Split salary column into min & max convert them to numeric.
+![Screenshot 2024-11-23 150553](https://github.com/user-attachments/assets/7786a0c8-d1dc-4225-ac11-aa35b1d7fb78)
