@@ -48,3 +48,7 @@ The project demonstrates a dual-environment approach using both Python and Postg
 ![Screenshot 2024-11-23 150553](https://github.com/user-attachments/assets/7786a0c8-d1dc-4225-ac11-aa35b1d7fb78)
 #### Step 5: Replace -1 with 'Unknown' in Founded column
 ![Screenshot 2024-11-23 202108](https://github.com/user-attachments/assets/8e79e3d2-5099-4c6f-9083-bd58cc6a3789)
+#### Step 6: Replace -1 with Unknown at 3 columns at same time.
+![3 columns fixed](https://github.com/user-attachments/assets/a3ab12a9-8665-4fbb-99c0-65ad3cdc0432)
+#### Step 7: Replace -1 with 'Unknown' in competitors column.
+![fixed competitors column](https://github.com/user-attachments/assets/428cb69f-ed04-4fb4-b5d6-2ef8011cfb95)
