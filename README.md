@@ -52,3 +52,7 @@ The project demonstrates a dual-environment approach using both Python and Postg
 ![3 columns fixed](https://github.com/user-attachments/assets/a3ab12a9-8665-4fbb-99c0-65ad3cdc0432)
 #### Step 7: Replace -1 with 'Unknown' in competitors column.
 ![fixed competitors column](https://github.com/user-attachments/assets/428cb69f-ed04-4fb4-b5d6-2ef8011cfb95)
+
+#### Step 8: Split company name column and create a separate rating column  
+![Screenshot 2024-11-24 205429](https://github.com/user-attachments/assets/b824a25e-48f5-490a-b654-ab24f1281cb3)
+
